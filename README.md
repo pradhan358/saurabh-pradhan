@@ -1,4 +1,6 @@
-# saurabh-pradhan 
-# student of b.sc computer science
-# collage scct collage sanpada 
+
 print("hello,world")
+a = 33
+b = 200
+if b > a:
+print("b is greater than a") 
